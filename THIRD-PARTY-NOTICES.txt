@@ -1,0 +1,12 @@
+scDOLPHIN — THIRD-PARTY MATERIAL AND SCOPE
+
+The project dual-licensing notice does not replace the original terms
+for inherited third-party material.
+
+Read the Docs / Lumache tutorial template
+Source: https://github.com/readthedocs/tutorial-template/
+Scope: Inherited docs/, lumache.py, pyproject.toml, .readthedocs.yaml, .gitignore and original README.rst content; excluded from the new project license grant.
+
+No additional permissions for this inherited material are granted
+by the project licensing notice. Consult the upstream project for its terms.
+
