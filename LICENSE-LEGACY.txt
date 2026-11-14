@@ -1,0 +1,11 @@
+HISTORICAL LICENSE AND ATTRIBUTION NOTICES — scDOLPHIN
+
+Baseline before the licensing update:
+https://github.com/mcgilldinglab/scDOLPHIN/commit/c97bb75ae2b1f89588f415f59109dfa8e1428459
+
+The following prior notices are retained verbatim. Earlier grants and notices
+continue to apply to the material they cover; the new licensing notice does
+not revoke those rights or relicense third-party material.
+
+No root license file was present in the captured baseline.
+
